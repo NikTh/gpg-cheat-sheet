@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Εισαγωγή](README.md)
+* [Cheat Sheet](chapter1.md)
+
