@@ -1,3 +1,7 @@
-# My Awesome Book
+# GPG Cheat Sheet
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Το GPG είναι ακρωνύμιο του Gnu Privacy Guard. Από τα πιο δημοφιλή εργαλεία κρυπτογράφησης μηνυμάτων ηλεκτρονικού ταχυδρομείου και αρχείων.   
+Είναι Ανοιχτού Κώδικα και μπορεί να χρησιμοποιηθεί εκτός της κρυπτογράφησης και στην υπογραφή \(digital signature\) - αυθεντικότητα - των δεδομένων.
+
+Σε αυτό το έντυπο παρατίθενται οι πιο συχνά χρησιμοποιούμενες εντολές του Gnu Privacy Guard.
+
